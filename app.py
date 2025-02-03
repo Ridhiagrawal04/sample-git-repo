@@ -11,3 +11,7 @@ with col2:
     st.write("""
     Basic learning needs are those which comprise both essential learning tools (such as literacy, oral expression, numeracy, and problem solving) and the basic learning content (such as knowledge, skills, values, and attitudes) required for survival""")
 
+st.header('types of learning')
+st.subheader('Visual learning ')
+st.subheader('Auditory learning ')
+
