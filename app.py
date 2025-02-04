@@ -13,6 +13,7 @@ with col2:
 
 st.header('types of learning')
 st.subheader('Visual learning and Auditory learning ')
+st.write('they are very important')
 
 
 
