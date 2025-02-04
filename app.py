@@ -15,3 +15,5 @@ st.header('types of learning')
 st.subheader('Visual learning and Auditory learning ')
 
 
+
+
